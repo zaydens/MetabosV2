@@ -4,7 +4,7 @@ BOT FROM AIRDROPFAMILYIDN
 # How To Run 
 
 ```
-git clone
+git clone https://github.com/AirDropFamilyIDN/MetabosV2.git
 ```
 ```
 cd MetabosV2
