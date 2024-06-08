@@ -15,7 +15,7 @@ cd MetabosV2
 ```
 pip install -r requirements.txt
 ```
-Edit File Akun.txt Dengan Datamu!
+Edit File Akun.json Dengan Datamu!
 ```
 python bot.py
 ```
