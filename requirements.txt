@@ -11,7 +11,7 @@ phonenumbers==8.13.36
 platformdirs==4.2.1
 pyaes==1.6.1
 pyasn1==0.6.0
-requests==2.31.0
+requests==2.32.2
 rsa==4.9
 Telethon==1.35.0
 tomli==2.0.1
