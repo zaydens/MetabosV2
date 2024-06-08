@@ -10,7 +10,7 @@ git clone https://github.com/AirDropFamilyIDN/MetabosV2.git
 cd MetabosV2
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Edit File Akun.txt Dengan Datamu!
 ```
