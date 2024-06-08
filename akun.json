@@ -1,6 +1,8 @@
 [
-	Data1,
-	Data2,
-	Data3 // kolom ini tidak pakai koma
-]
+	Code 1 
+	Code 2
+	Code 3
 
+]
+ini contoh hapus aja akun w ntar
+	{"code":1,"type":2,"data":{"id":6405021090,"username":"Kenzo Nakamura","hash":"ea67f0bbd66faa6dec4de765bd236ecd73e7ccbdc415110a41ff25072a29f7c1","timeAuth":1717864663,"data":"user={\"id\":6405021090,\"first_name\":\"Kenzo\",\"last_name\":\"Nakamura\",\"username\":\"KenzoNakamura\",\"language_code\":\"en\",\"allows_write_to_pm\":true}&chat_instance=-8798325389801921996&chat_type=sender&auth_date=1717864663&hash=ea67f0bbd66faa6dec4de765bd236ecd73e7ccbdc415110a41ff25072a29f7c1"}}
